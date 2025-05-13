@@ -1,0 +1,1 @@
+CIFAR-10 Image Classifier is a GPU-accelerated deep learning project built with PyTorch that classifies images into 10 different categories. The implementation features a custom CNN architecture, comprehensive evaluation metrics, and achieves approximately 78.9% accuracy on the standard CIFAR-10 benchmark dataset. 
